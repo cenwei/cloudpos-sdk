@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="abort">Abort</string>
+    <string name="add_hello_world">Add Hello World</string>
+    <string name="add_title">Add Title</string>
+    <string name="app_name">APISample</string>
+    <string name="bps192_mode">BPS 19200 Mode</string>
+    <string name="cashbox_sample">Cash Box</string>
+    <string name="contact_ic_card_sample">Contact IC Card</string>
+    <string name="dial_off">Dial Off</string>
+    <string name="dial_up">Dial Up</string>
+    <string name="emv_mode">EMV Mode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inner_scanner_sample">Inner Scanner</string>
+    <string name="install_lns">Install listener</string>
+    <string name="mag_card_sample">Magnetic Card</string>
+    <string name="menu_settings">Settings</string>
+    <string name="message">Message</string>
+    <string name="modem_sample">Modem</string>
+    <string name="open_box">Open Box</string>
+    <string name="phone_number">Phone Numbers(Hosts)</string>
+    <string name="powerup_parameter">Powerup Parameters</string>
+    <string name="printer_sample">Printer</string>
+    <string name="read_psam">Read PSAM Card (SAM1)</string>
+    <string name="rf_card_sample">RF Card</string>
+    <string name="scanner_sample">Scanner</string>
+    <string name="search_and_read">Search Card And Read</string>
+    <string name="search_mag_card">Search Card</string>
+    <string name="search_mag_card_only_track2">Search Track2</string>
+    <string name="search_mag_card_without_lrc_check">Search Card Without LRC Check</string>
+    <string name="search_up_card_and_read">Search UP Card/Mifare One Card And Read</string>
+    <string name="serial_port_sample">Serial Port</string>
+    <string name="shb_mode">SHB Mode</string>
+    <string name="start_comm">Start Communication</string>
+    <string name="start_print">Start Print</string>
+    <string name="start_scann">Start Scan</string>
+    <string name="stop">Stop</string>
+    <string name="stop_search">Stop Search</string>
+    <string name="title_activity_main">LANDI API Samples</string>
+    <string name="uninstall_lns">Uninstall Listener</string>
+    <string name="vol18">1.8 VOL</string>
+    <string name="vol3">3 VOL</string>
+    <string name="vol5">5 VOL</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

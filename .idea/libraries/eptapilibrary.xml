@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eptapilibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/armeabi/eptapilibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

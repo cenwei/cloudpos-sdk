@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cashbox.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\cashbox.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printer.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\printer.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modem.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\modem.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mag_card.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\mag_card.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scanner.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\scanner.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_ic_card.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\contact_ic_card.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inner_scanner.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\inner_scanner.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\serial_port.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\serial_port.xml"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rf_card.xml",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\layout\\rf_card.xml"
+    }
+]

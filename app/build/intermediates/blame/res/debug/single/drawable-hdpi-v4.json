@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Chaoshibao\\SampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\Chaoshibao\\SampleAPI\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]

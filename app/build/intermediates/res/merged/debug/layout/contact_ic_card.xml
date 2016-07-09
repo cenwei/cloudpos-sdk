@@ -1,0 +1,126 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/button_search_cpu_card_and_read"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/search_and_read" />
+
+    <Button
+        android:id="@+id/button_stop_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button_search_cpu_card_and_read"
+        android:text="@string/stop_search" />
+
+    <Button
+        android:id="@+id/button_read_psam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button_stop_search"
+        android:text="@string/read_psam" />
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/powerup_parameter"
+        android:layout_below="@+id/button_read_psam"
+        android:textSize="20dp"/>
+    
+	<RelativeLayout
+        android:id="@+id/layout_radio"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentRight="true"
+	    android:layout_below="@+id/textView2">
+
+	    <RadioGroup 
+		    android:id="@+id/radioGroup1"
+		    android:layout_width="200dp" 
+		    android:layout_height="wrap_content"
+	        android:layout_below="@+id/textView2">
+	        <RadioButton
+	            android:id="@+id/radioButton_emv"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/emv_mode" 
+	            android:checked="true"/>
+	
+	        <RadioButton
+	            android:id="@+id/radioButton_shb"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/shb_mode" />
+	        
+	        <RadioButton
+	            android:id="@+id/radioButton_bps192"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/bps192_mode" />
+		</RadioGroup>
+		
+		<RadioGroup 
+		    android:id="@+id/radioGroup2"
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content"
+	        android:layout_toRightOf="@+id/radioGroup1">
+	        <RadioButton
+	            android:id="@+id/radioButton_vol5"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/vol5" 
+	            android:checked="true"/>
+	
+	        <RadioButton
+	            android:id="@+id/radioButton_vol3"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/vol3" />
+	        
+	        <RadioButton
+	            android:id="@+id/radioButton_vol18"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/vol18" />
+		</RadioGroup>
+	</RelativeLayout>
+	
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/layout_radio"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/message"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/info_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:inputType="textMultiLine" />
+        
+    </LinearLayout>
+
+</RelativeLayout>
